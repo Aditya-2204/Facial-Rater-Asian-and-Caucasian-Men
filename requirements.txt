@@ -1,5 +1,4 @@
-absl-py
-opencv-headless-python
+absl-py==2.1.0
 altair==5.3.0
 astunparse==1.6.3
 attrs==23.2.0
@@ -29,6 +28,7 @@ ml-dtypes==0.4.0
 mtcnn==0.1.1
 namex==0.0.8
 numpy==1.26.4
+opencv-python-headless==4.10.0.84
 opt-einsum==3.3.0
 optree==0.12.1
 packaging==24.1
